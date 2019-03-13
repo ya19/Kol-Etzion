@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "886371045190",
+    "firebase_url": "https://kol-etzion.firebaseio.com",
+    "project_id": "kol-etzion",
+    "storage_bucket": "kol-etzion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886371045190:android:d4c4e85135edd87b",
+        "android_client_info": {
+          "package_name": "edu.etzion.koletzion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886371045190-9e27t7stb04vqu8rqv2c1nuf15prjm7p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.etzion.koletzion",
+            "certificate_hash": "dcadca75d3c0238d1337b0ac8b0d4174bfd5c9b5"
+          }
+        },
+        {
+          "client_id": "886371045190-lk0ck7msmatep23838qpcr0d6thngmmj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyVD5dJEehgr4byLHZZP0JBmQb1zWl9cY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886371045190-lk0ck7msmatep23838qpcr0d6thngmmj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
